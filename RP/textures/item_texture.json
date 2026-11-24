@@ -1,0 +1,33 @@
+{
+  "resource_pack_name": "herois",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "herois_seringa": {
+      "textures": "textures/items/seringa"
+    },
+    "herois_capsula_flash": {
+      "textures": "textures/items/capsula_flash"
+    },
+    "herois_capsula_v9": {
+      "textures": "textures/items/capsula_v9"
+    },
+    "herois_composto_flash": {
+      "textures": "textures/items/composto_flash"
+    },
+    "herois_anel_flash": {
+      "textures": "textures/items/anel_flash"
+    },
+    "herois_traje_flash_helmet": {
+      "textures": "textures/items/traje_flash_helmet"
+    },
+    "herois_traje_flash_chestplate": {
+      "textures": "textures/items/traje_flash_chestplate"
+    },
+    "herois_traje_flash_leggings": {
+      "textures": "textures/items/traje_flash_leggings"
+    },
+    "herois_traje_flash_boots": {
+      "textures": "textures/items/traje_flash_boots"
+    }
+  }
+}

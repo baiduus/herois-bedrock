@@ -1,0 +1,58 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Herois_baiduu (comportamento)",
+    "description": "Heróis do mod Herois_baiduu para o Bedrock — Flash",
+    "uuid": "4520aaab-81e7-443e-8dce-3444e1afeb0a",
+    "version": [
+      0,
+      1,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "956451e2-bdcf-404a-bc3d-df0f6cdabbcc",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "0b0f8a90-eefe-40c3-b401-226bf601be07",
+      "version": [
+        0,
+        1,
+        0
+      ],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "81d76f5b-b4e3-4fec-99b3-966cb374e510",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.16.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "1.3.0"
+    }
+  ]
+}

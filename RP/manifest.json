@@ -1,0 +1,39 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Herois_baiduu (texturas)",
+    "description": "Texturas e efeitos do Herois_baiduu",
+    "uuid": "81d76f5b-b4e3-4fec-99b3-966cb374e510",
+    "version": [
+      0,
+      1,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "60e338db-96f4-4729-b84b-450cd21214d6",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "4520aaab-81e7-443e-8dce-3444e1afeb0a",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    }
+  ]
+}

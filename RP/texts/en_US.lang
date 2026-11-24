@@ -1,0 +1,12 @@
+item.herois:seringa.name=Syringe
+item.herois:capsula_flash.name=Flash Essence Capsule
+item.herois:capsula_v9.name=V-9 Capsule
+item.herois:composto_flash.name=Flash Chemical Compound
+item.herois:anel_flash.name=Flash Ring
+item.herois:traje_flash_helmet.name=Flash Mask
+item.herois:traje_flash_chestplate.name=Flash Suit
+item.herois:traje_flash_leggings.name=Flash Pants
+item.herois:traje_flash_boots.name=Flash Boots
+tile.herois:camara_transformacao.name=Transformation Chamber
+pack.name=Herois_baiduu
+pack.description=Heroes from the Herois_baiduu mod

@@ -1,0 +1,12 @@
+item.herois:seringa.name=Seringa
+item.herois:capsula_flash.name=Cápsula de Essência do Flash
+item.herois:capsula_v9.name=Cápsula V-9
+item.herois:composto_flash.name=Composto Químico do Flash
+item.herois:anel_flash.name=Anel do Flash
+item.herois:traje_flash_helmet.name=Máscara do Flash
+item.herois:traje_flash_chestplate.name=Traje do Flash
+item.herois:traje_flash_leggings.name=Calça do Flash
+item.herois:traje_flash_boots.name=Botas do Flash
+tile.herois:camara_transformacao.name=Câmara de Transformação
+pack.name=Herois_baiduu
+pack.description=Heróis do mod Herois_baiduu

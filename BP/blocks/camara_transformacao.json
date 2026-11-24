@@ -1,0 +1,36 @@
+{
+  "format_version": "1.21.50",
+  "minecraft:block": {
+    "description": {
+      "identifier": "herois:camara_transformacao",
+      "menu_category": {
+        "category": "construction"
+      }
+    },
+    "components": {
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "herois_camara_lado",
+          "render_method": "opaque"
+        },
+        "up": {
+          "texture": "herois_camara_topo",
+          "render_method": "opaque"
+        },
+        "down": {
+          "texture": "herois_camara_base",
+          "render_method": "opaque"
+        }
+      },
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 2.0
+      },
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 30
+      },
+      "minecraft:light_emission": 5,
+      "minecraft:map_color": "#8a8f99",
+      "minecraft:display_name": "tile.herois:camara_transformacao.name"
+    }
+  }
+}
